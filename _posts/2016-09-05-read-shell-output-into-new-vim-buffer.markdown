@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Read Shell Output Into New Vim Buffer"
-date:   2016-09-05 18:06:20 -06:00
+date:   2016-09-05 18:06:20 -0600
 categories: vim
 ---
 While in vim, you may want to run an external command and use the output. One way is to do the following.
