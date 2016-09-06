@@ -2,7 +2,7 @@
 layout: post
 title:  "Mount.cifs With Hostname"
 date:   2016-09-03 15:05:07 -0600
-categories: jekyll update
+categories: ubuntu
 ---
 You have a windows share named _sharename_. You know the ip address and you want to mount it.
 
