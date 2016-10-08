@@ -15,7 +15,7 @@ A workaround I have found that seemed to work is to:
 
 Now, a bit more detail on how each step is done.
 
-You can switch to a text VM with ctrl+alt+f1 through f6. Each function key is a separate VM. Note, this make take a while.
+You can switch to a text VM with `ctrl+alt+f1` through `f6`. Each function key is a separate VM. Note, this make take a while.
 
 Login and run:
 
@@ -25,7 +25,7 @@ $ sudo pm-suspend
 
 Your computer should go to sleep.
 
-Wake the computer up, then switch back to the VM running X with ctlr+alt+f7.
+Wake the computer up, then switch back to the VM running X with `ctlr+alt+f7`.
 
 No idea if this will work every time, but it just worked for me.
 
