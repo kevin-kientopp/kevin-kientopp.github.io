@@ -13,13 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just Things I Don't Want to Forget
+title: Kevin Kientopp
 email: kevinkientopp@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  My memory sucks. And since I have started playing with Ubuntu, I have
-  learned that googling answers is not always easy. A lot of stuff is
-  out of date or hidden away. So I will leave little tidbits of
-  information here.
+  A collection of random technical things that I have come across in my time.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kevin-kientopp.github.io" # the base hostname & protocol for your site
 twitter_username: 
